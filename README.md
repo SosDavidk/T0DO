@@ -1,4 +1,3 @@
-<img width="421" height="828" alt="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/76300b73-2e7c-42ad-a52d-438fb43a904e" />
 Egy egyszeru To-do app igazabol semmi kulonos 
 
 
