@@ -15,8 +15,9 @@ Részletek
 
 Képek az appról
 <p align="center">
-  <img width="300" alt="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/6e33cdc1-4138-4190-a3710adee1d0daad"/>
-  <img width="300" alt="Képernyőfotó 2026-04-10 - 21 41 23" src="https://github.com/user-attachments/assets/bad66516-0e70-4d2f-ad9d-bead066f1740"/>
+  <img width="300" alt="Képernyőfotó 2026-04-10 - 21 41 23" src="https://github.com/user-attachments/assets/5911f330-8b72-45ad-aaaf-84e55f1ac331" />
+<img width="300" alt="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/58c7eb37-3b8d-41ef-a9b2-50c27545ccf5" />
+
 
 </p>
 
