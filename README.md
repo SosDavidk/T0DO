@@ -1,3 +1,4 @@
+<img width="421" height="828" alt="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/76300b73-2e7c-42ad-a52d-438fb43a904e" />
 Egy egyszeru To-do app igazabol semmi kulonos 
 
 
@@ -15,6 +16,10 @@ Részletek
 
 Képek az appról
 <p align="center">
-  <img src=""Képernyőfotó 2026-04-10 - 21 41 23 src="https://github.com/user-attachments/assets/71156e1d-3364-4aaf-a50b-10db8087a357" width="300" />
-  <img src="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/1a9957fc-e273-4661-94a9-1df8b4e6ea7d" width="300" />
-</p
+  <img width="300" alt="Képernyőfotó 2026-04-10 - 21 40 27" src="https://github.com/user-attachments/assets/6e33cdc1-4138-4190-a3710adee1d0daad"/>
+  <img width="300" alt="Képernyőfotó 2026-04-10 - 21 41 23" src="https://github.com/user-attachments/assets/bad66516-0e70-4d2f-ad9d-bead066f1740"/>
+
+</p>
+
+
+
