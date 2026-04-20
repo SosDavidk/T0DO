@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     @State public var hasBeenStarted: Bool = false
-    @State public var hasBeenAdded: Bool = false
     @State public var NewTask = ""
     @State public var tasks: [ToDoTask] = []
     
